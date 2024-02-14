@@ -1,16 +1,15 @@
-### Hi there 👋
+Colombian 🇨🇴 raised in Colombia 🇨🇴, currently living in... Colombia 🇨🇴
 
-<!--
-**escalderong/escalderong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I like:
+  - 🦕🦖
+  - 🗾🗻
+  - 🕹️🎮🎲
+  - 🎶🎚️
 
-Here are some ideas to get you started:
+What I don't like:
+  -🍇🍊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a back-end/fullstack dev for a mobility solution app based in Colombia.
+Thriving on learning game development.
+
+That's... it.
