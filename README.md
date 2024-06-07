@@ -15,4 +15,4 @@ Thriving on learning ✨game development✨.
 That's... it.
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/escalderong/zeldio/blob/eb6a5397ab639cfacfae6def13c184a4dba1568a/e1oj8r0xrwzc1.jpeg');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://i.imgur.com/KOt8XhR.jpeg');]{x0000}$}
